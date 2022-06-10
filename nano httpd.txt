@@ -1,0 +1,8 @@
+https://stackoverflow.com/questions/14309256/using-nanohttpd-in-android
+
+https://tutocodem.wordpress.com/nanohttpd/
+
+https://medium.com/@deb.gold007/a-little-http-s-server-on-android-to-help-hybrid-apps-execute-native-commands-2958d28e5157
+
+
+http://nilhcem.com/android-things/toy-hacking
